@@ -1,0 +1,2 @@
+# Supplementary-File
+This is the supplementary file for the paper entitled Highly-Accurate Manipulator Calibration via Extended Kalman Filter-Incorporated Residual Neural Network. It mainly contains a) the evaluation metrics, position accuracy and convergence rates of experimental models on D1, D2, and D3, b) the practical experimental environment of a 6-DOF ABB IRB120 manipulator, and c) four supplementary tables recording the performance of the comparison models and calibration results.
